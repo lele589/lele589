@@ -4,7 +4,7 @@
 <td width="50%">
 <h3 align="center">Fullstack Project</h3>
 <div align="center">
-<a href="https://github.com/lele589/sports-shop" target="_blank"><img src="https://github.com/lele589/lele589/blob/main/rb_939.png" width="250" alt="Fullstack Project"></a>
+<a href="https://github.com/lele589/sports-shop" target="_blank"><img src="https://github.com/lele589/lele589/blob/main/rb_939.png" width="200" alt="Fullstack Project"></a>
 <p>
 <a href="https://github.com/lele589/sports-shop" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&color=009B86">
@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Team Lead Handbook</h3>
 <div align="center">                                       
-<a href="https://github.com/lele589/team-lead-handbook" target="_blank"><img src="https://github.com/lele589/lele589/blob/main/rb_1248.png" width="400" alt="Team Lead Handbook"></a>
+<a href="https://github.com/lele589/team-lead-handbook" target="_blank"><img src="https://github.com/lele589/lele589/blob/main/rb_1248.png" width="300" alt="Team Lead Handbook"></a>
 <br>
 <p>
 <a href="https://github.com/lele589/team-lead-handbook" target="_blank">
